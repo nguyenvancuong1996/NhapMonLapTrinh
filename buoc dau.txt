@@ -1,0 +1,5 @@
+git clone
+git status
+git add .
+git -am "ten @@"
+git push origin master
