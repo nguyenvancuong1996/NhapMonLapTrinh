@@ -1,4 +1,3 @@
-# NhapMonLapTrinh
 #include<iostream>
 using namespace std;
 main(){
